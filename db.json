@@ -1,1 +1,144 @@
-{"dogs":[{"name":"Nannie","image":"/assets/corgi.png","description":"inquisitively oof calm acupuncture whereas equatorial gosh effectuate","isFavorite":true,"id":0},{"name":"Brycen","image":"/assets/chihuahua.avif","description":"bottleful after baste obliterate putrid","isFavorite":false,"id":1},{"name":"Thurman","image":"/assets/boxer.png","description":"subtle though jade indeed before island aha","isFavorite":true,"id":2},{"name":"Orrin","image":"/assets/chihuahua.avif","description":"provided after despite till watcher","isFavorite":true,"id":3},{"name":"Lucie","image":"/assets/dalmation.png","description":"psst justly browsing all solid","isFavorite":false,"id":4},{"name":"Luella","image":"/assets/blue-heeler.png","description":"smoothly idolized naturally yum that till phew","isFavorite":false,"id":5},{"name":"Shannon","image":"/assets/cowardly.png","description":"invite insistent brr truthfully athwart bah straddle assassination","isFavorite":true,"id":6},{"name":"Imani","image":"/assets/dalmation.png","description":"rattle excluding skean on recovery","isFavorite":true,"id":7},{"name":"Danyka","image":"/assets/chihuahua.avif","description":"chillax daily sally however lest","isFavorite":true,"id":8},{"name":"Toby","image":"/assets/blue-heeler.png","description":"wildly forenenst rightfully till how","isFavorite":false,"id":9},{"name":"Tyson","image":"/assets/blue-heeler.png","description":"inequality maroon however nimble segregate","isFavorite":false,"id":10},{"name":"Eulalia","image":"/assets/boxer.png","description":"foolish rarely despite fooey frantically definitive jubilant dislike","isFavorite":true,"id":11},{"name":"Lawson","image":"/assets/cowardly.png","description":"uniform but wet cruelly knowledgeable","isFavorite":true,"id":12},{"name":"Cooper","image":"/assets/dalmation.png","description":"furthermore when righteously when handlebar breathe considering so","isFavorite":false,"id":13},{"name":"Melody","image":"/assets/chihuahua.avif","description":"demotivate above hmph exploit hatbox quaver these","isFavorite":false,"id":14},{"name":"Linda","image":"/assets/blue-heeler.png","description":"instead angelic kissingly easily apropos tempting crease","isFavorite":true,"id":15},{"name":"Dakota","image":"/assets/chihuahua.avif","description":"salad hopelessly loyally gah whoever","isFavorite":true,"id":16},{"name":"Stewart","image":"/assets/blue-heeler.png","description":"bad whoever obedient modulo investigation daily yum","isFavorite":true,"id":17},{"name":"Melyssa","image":"/assets/cowardly.png","description":"drat considering youthfully unfortunately whereas aside underline jealously","isFavorite":false,"id":18},{"name":"Korey","image":"/assets/chihuahua.avif","description":"loosely at bossy surprisingly friendly for well-lit seldom","isFavorite":false,"id":19}]}
+{
+  "dogs": [
+    {
+      "name": "Paige",
+      "image": "/assets/cowardly.png",
+      "description": "until roughly previous putter rudely diluted negotiation gah",
+      "isFavorite": true,
+      "id": 0
+    },
+    {
+      "name": "Cade",
+      "image": "/assets/corgi.png",
+      "description": "chromolithograph patiently after velvety aha emitter whoever ha",
+      "isFavorite": true,
+      "id": 1
+    },
+    {
+      "name": "Casimir",
+      "image": "/assets/boxer.png",
+      "description": "a ick line adorable shingle exhibit marvelous",
+      "isFavorite": false,
+      "id": 2
+    },
+    {
+      "name": "Camden",
+      "image": "/assets/dalmation.png",
+      "description": "manacle surprisingly once after beyond",
+      "isFavorite": false,
+      "id": 3
+    },
+    {
+      "name": "Herminio",
+      "image": "/assets/boxer.png",
+      "description": "wildly via duh pish wholly where tick",
+      "isFavorite": true,
+      "id": 4
+    },
+    {
+      "name": "Jamal",
+      "image": "/assets/dalmation.png",
+      "description": "pad uselessly probe gadzooks zowie phew dreary aside",
+      "isFavorite": true,
+      "id": 5
+    },
+    {
+      "name": "Alexandrine",
+      "image": "/assets/dalmation.png",
+      "description": "backdate psst per elegantly wearily psst aw pish",
+      "isFavorite": true,
+      "id": 6
+    },
+    {
+      "name": "Quentin",
+      "image": "/assets/cowardly.png",
+      "description": "and querulous feast how thoroughly",
+      "isFavorite": true,
+      "id": 7
+    },
+    {
+      "name": "Christelle",
+      "image": "/assets/corgi.png",
+      "description": "phooey consequently nervously secret around during indeed",
+      "isFavorite": false,
+      "id": 8
+    },
+    {
+      "name": "Dina",
+      "image": "/assets/boxer.png",
+      "description": "yahoo meander daily gosh around nutritious fairly instead",
+      "isFavorite": false,
+      "id": 9
+    },
+    {
+      "name": "Ebba",
+      "image": "/assets/corgi.png",
+      "description": "longingly huzzah mishear growling qua ick concentration tortoise",
+      "isFavorite": false,
+      "id": 10
+    },
+    {
+      "name": "Erich",
+      "image": "/assets/dalmation.png",
+      "description": "gleaming for pfft pup huzzah darling what",
+      "isFavorite": true,
+      "id": 11
+    },
+    {
+      "name": "Myah",
+      "image": "/assets/cowardly.png",
+      "description": "proliferation where coppice yum drat ah fool",
+      "isFavorite": false,
+      "id": 12
+    },
+    {
+      "name": "Audra",
+      "image": "/assets/blue-heeler.png",
+      "description": "gosh pertinent drat shrink legend ah discourse",
+      "isFavorite": false,
+      "id": 13
+    },
+    {
+      "name": "Maurice",
+      "image": "/assets/cowardly.png",
+      "description": "circular positively yowza how hm modulo blacken",
+      "isFavorite": false,
+      "id": 14
+    },
+    {
+      "name": "Felix",
+      "image": "/assets/blue-heeler.png",
+      "description": "furthermore annual upset till meh pinkie auto sans",
+      "isFavorite": true,
+      "id": 15
+    },
+    {
+      "name": "Terrell",
+      "image": "/assets/dalmation.png",
+      "description": "yet duh develop demist gyrate umpire definite",
+      "isFavorite": false,
+      "id": 16
+    },
+    {
+      "name": "Steve",
+      "image": "/assets/corgi.png",
+      "description": "pungent normal easy-going larch over",
+      "isFavorite": false,
+      "id": 17
+    },
+    {
+      "name": "Valentina",
+      "image": "/assets/boxer.png",
+      "description": "slowly smart deaden judgementally gah yowza impose derby",
+      "isFavorite": true,
+      "id": 18
+    },
+    {
+      "name": "Samanta",
+      "image": "/assets/blue-heeler.png",
+      "description": "fitting free before ponce hurt without afore despite",
+      "isFavorite": true,
+      "id": 19
+    }
+  ]
+}
