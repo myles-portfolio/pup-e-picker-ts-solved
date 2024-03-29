@@ -1,7 +1,16 @@
 import { Link } from "react-router-dom";
+import { Dispatch, SetStateAction, ReactNode } from "react";
 
-import { Dog, FunctionalSectionProps } from "../types";
+import { Dog } from "../types";
 import { ActiveComponent } from "../types";
+
+type FunctionalSectionProps = {
+	coolDogs: Dog[];
+	uncoolDogs: Dog[];
+	setActiveComponent: Dispatch<SetStateAction<ActiveComponent>>;
+	activeComponent: ActiveComponent;
+	children: ReactNode;
+};
 
 export const FunctionalSection = ({
 	coolDogs,
