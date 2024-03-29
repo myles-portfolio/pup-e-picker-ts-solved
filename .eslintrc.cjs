@@ -1,4 +1,9 @@
 module.exports = {
+	settings: {
+		react: {
+			version: "detect",
+		},
+	},
 	env: {
 		browser: true,
 		es2021: true,
@@ -22,9 +27,11 @@ module.exports = {
 	],
 	parser: "@typescript-eslint/parser",
 	parserOptions: {
-		ecmaVersion: "latest",
+		ecmaVersion: {
+			jsx: true,
+		},
 		sourceType: "module",
 	},
 	plugins: ["@typescript-eslint", "react"],
-	rules: {},
+	rules: { "react/jsx-uses-react": "error" },
 };

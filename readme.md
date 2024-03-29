@@ -41,16 +41,16 @@ To get this project setup, you should:
 ## Standard Requirements
 
 - [x] Setup eslint
-- [ ] Pass all linting checks
+- [x] Pass all linting checks
 
 - To check if linting passes, run `npm run lint`
 
 - [x] Format code with prettier
-- [ ] State should not be duplicated
-- [ ] Variables should be named logically
-- [ ] No unnecessary console logs
-- [ ] No commented out blocks of code (Code comments are fine)
-- [ ] Setup a github repository with your submission as the `main` branch, you will submit a link to this for grading (NOT A ZIP FILE)
+- [x] State should not be duplicated
+- [x] Variables should be named logically
+- [x] No unnecessary console logs
+- [x] No commented out blocks of code (Code comments are fine)
+- [x] Setup a github repository with your submission as the `main` branch, you will submit a link to this for grading (NOT A ZIP FILE)
 
 ## Typescript Specific Requirements
 
