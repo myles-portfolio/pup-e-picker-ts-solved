@@ -32,7 +32,7 @@
       "name": "Herminio",
       "image": "/assets/boxer.png",
       "description": "wildly via duh pish wholly where tick",
-      "isFavorite": true,
+      "isFavorite": false,
       "id": 4
     },
     {
@@ -139,6 +139,13 @@
       "description": "fitting free before ponce hurt without afore despite",
       "isFavorite": true,
       "id": 19
+    },
+    {
+      "name": "Henry",
+      "description": "Best boy ever!",
+      "image": "/assets/corgi.png",
+      "isFavorite": false,
+      "id": 20
     }
   ]
 }
