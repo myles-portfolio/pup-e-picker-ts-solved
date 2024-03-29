@@ -82,7 +82,7 @@ export class ClassApp extends Component {
 		return (
 			<div className="App" style={{ backgroundColor: "skyblue" }}>
 				<header>
-					<h1>pup-e-picker (Functional)</h1>
+					<h1>pup-e-picker (Class)</h1>
 				</header>
 				<ClassSection
 					coolDogs={coolDogs}

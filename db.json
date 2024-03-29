@@ -15,13 +15,6 @@
       "id": 1
     },
     {
-      "name": "Casimir",
-      "image": "/assets/boxer.png",
-      "description": "a ick line adorable shingle exhibit marvelous",
-      "isFavorite": false,
-      "id": 2
-    },
-    {
       "name": "Camden",
       "image": "/assets/dalmation.png",
       "description": "manacle surprisingly once after beyond",
@@ -39,7 +32,7 @@
       "name": "Jamal",
       "image": "/assets/dalmation.png",
       "description": "pad uselessly probe gadzooks zowie phew dreary aside",
-      "isFavorite": true,
+      "isFavorite": false,
       "id": 5
     },
     {
@@ -139,13 +132,6 @@
       "description": "fitting free before ponce hurt without afore despite",
       "isFavorite": true,
       "id": 19
-    },
-    {
-      "name": "Henry",
-      "description": "Best boy ever!",
-      "image": "/assets/corgi.png",
-      "isFavorite": false,
-      "id": 20
     }
   ]
 }
