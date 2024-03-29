@@ -3,9 +3,14 @@ import { ClassSection } from "./ClassSection";
 import { ClassDogs } from "./ClassDogs";
 import { ClassCreateDogForm } from "./ClassCreateDogForm";
 import { Requests } from "../api";
-import { Dog, ActiveComponent, ClassAppState } from "../types";
+import { Dog, ActiveComponent } from "../types";
 import { switchDogsShown } from "../util";
 
+type ClassAppState = {
+	allDogs: Dog[];
+	activeComponent: ActiveComponent;
+	isLoading: boolean;
+};
 export class ClassApp extends Component {
 	state: ClassAppState = {
 		allDogs: [],

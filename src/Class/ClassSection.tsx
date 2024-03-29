@@ -1,8 +1,15 @@
-import { Component } from "react";
+import { Component, ReactNode } from "react";
 import { Link } from "react-router-dom";
 
-import { ClassSectionProps, ActiveComponent } from "../types";
+import { ActiveComponent, Dog } from "../types";
 
+type ClassSectionProps = {
+	coolDogs: Dog[];
+	uncoolDogs: Dog[];
+	setActiveComponent: (input: ActiveComponent) => void;
+	activeComponent: ActiveComponent;
+	children: ReactNode;
+};
 export class ClassSection extends Component<ClassSectionProps> {
 	render() {
 		const {

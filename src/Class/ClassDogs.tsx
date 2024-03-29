@@ -1,7 +1,15 @@
-import { DogCard } from "../Shared/DogCard";
 import { Component } from "react";
 
-import { ClassDogsProps } from "../types";
+import { Dog } from "../types";
+import { DogCard } from "../Shared/DogCard";
+
+type ClassDogsProps = {
+	dogs: Dog[];
+	deleteDog: (input: number) => void;
+	favoriteDog: (input: number) => void;
+	unFavoriteDog: (input: number) => void;
+	isLoading: boolean;
+};
 
 export class ClassDogs extends Component<ClassDogsProps> {
 	render() {

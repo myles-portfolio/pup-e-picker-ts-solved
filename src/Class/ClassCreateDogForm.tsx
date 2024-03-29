@@ -2,7 +2,16 @@ import { Component } from "react";
 import toast from "react-hot-toast";
 
 import { dogPictures } from "../dog-pictures";
-import { ClassCreateDogFormProps, ClassCreateDogFormState } from "../types";
+import { Dog } from "../types";
+
+type ClassCreateDogFormProps = {
+	isLoading: boolean;
+	postDog: (input: Omit<Dog, "id">) => Promise<unknown>;
+};
+
+type ClassCreateDogFormState = {
+	newDog: Omit<Dog, "id">;
+};
 
 const defaultSelectedImage = dogPictures.BlueHeeler;
 const defaultDog = {
